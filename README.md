@@ -1,4 +1,4 @@
-# vue3-cms
+![image](https://github.com/ShihaoHuang310/vue3Project/assets/94229826/fcad0262-405c-4300-9285-329d3653d46b)# vue3-cms
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -45,3 +45,16 @@ npm run build
 npm run lint
 ```
 # vue3Project
+##登录页
+![image](https://github.com/ShihaoHuang310/vue3Project/assets/94229826/21ac9709-1ce3-4866-9e8e-e63cc2198f86)
+
+![image](https://github.com/ShihaoHuang310/vue3Project/assets/94229826/3d21327d-c5bc-4376-81db-e56475fb9abb)
+
+![image](https://github.com/ShihaoHuang310/vue3Project/assets/94229826/3dfa77ae-3362-46d7-a2f0-7d0a9200f86f)
+
+![image](https://github.com/ShihaoHuang310/vue3Project/assets/94229826/933b3b81-d09f-4dee-ae7c-94774de57e9b)
+![image](https://github.com/ShihaoHuang310/vue3Project/assets/94229826/ffb792c8-5667-402d-af7d-59aa583649f7)
+
+
+
+
