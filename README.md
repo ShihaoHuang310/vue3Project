@@ -1,4 +1,4 @@
-![image](https://github.com/ShihaoHuang310/vue3Project/assets/94229826/fcad0262-405c-4300-9285-329d3653d46b)# vue3-cms
+# vue3-cms
 
 This template should help get you started developing with Vue 3 in Vite.
 
