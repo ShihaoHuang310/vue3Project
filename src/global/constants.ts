@@ -1,0 +1,5 @@
+export const TOKEN_KEY = 'token'
+export const NAME = 'name'
+export const PASSWORD = 'password'
+export const USER_INFO = 'userInfo'
+export const MENU_INFO = 'menuInfo'
