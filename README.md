@@ -45,10 +45,11 @@ npm run build
 npm run lint
 ```
 # vue3Project
-##登录页
+## 登录页
 ![image](https://github.com/ShihaoHuang310/vue3Project/assets/94229826/21ac9709-1ce3-4866-9e8e-e63cc2198f86)
 
-![image](https://github.com/ShihaoHuang310/vue3Project/assets/94229826/3d21327d-c5bc-4376-81db-e56475fb9abb)
+![image](https://github.com/ShihaoHuang310/vue3Project/assets/94229826/3557e8d4-e163-4ac3-b38d-b06d3d958a65)
+
 
 ![image](https://github.com/ShihaoHuang310/vue3Project/assets/94229826/3dfa77ae-3362-46d7-a2f0-7d0a9200f86f)
 
